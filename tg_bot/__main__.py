@@ -19,9 +19,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-ഹായ് {}, എന്റെ പേര് {}! ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്.
+Hai {}, എന്റെ പേര് {}! ഞാൻ [ALARS](tg://user?id={}) നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്.
 
-എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്. ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് ആണ്. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://github.com/jithumon/tgbot) കാണുവാൻ സാധിക്കും.
+എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്. ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് ആണ്. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://youtu.be/oWnzLvlywlY) കാണുവാൻ സാധിക്കും.
 
 എന്നെപ്പോലെ ഒരു അഡ്മിൻ ബോട്ടിനെ ഉണ്ടാക്കുവാൻ താഴെ കൊടുത്തിരിക്കുന്ന വീഡിയോ കാണുക.
 
@@ -53,7 +53,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [PayPal](https://youtu.be/183tEhupiSQ), or [Monzo](https://youtu.be/Q4uoNAFfvKg)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
